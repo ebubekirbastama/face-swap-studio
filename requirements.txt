@@ -1,0 +1,5 @@
+insightface>=0.7
+onnxruntime>=1.16
+opencv-python>=4.8
+Pillow>=10.0
+numpy>=1.24

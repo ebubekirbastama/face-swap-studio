@@ -132,10 +132,6 @@ Format code:
 ruff format .
 ```
 
-## Contributing
-
-Pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
-
 ## License
 
 Application code in this repository is released under the MIT License. See [LICENSE](LICENSE).

@@ -33,7 +33,7 @@ Add your screenshot to `assets/screenshot.png`, then uncomment this line:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/face-swap-studio.git
+git clone https://github.com/ebubekirbastama/face-swap-studio.git
 cd face-swap-studio
 python -m venv .venv
 ```

@@ -20,7 +20,7 @@ Modern, local and CPU-focused desktop face-swap application built with Python, T
 
 ## Screenshot
 
-![Main Interface](screenshots/report-export.png)
+![Main Interface](assets/screenshot.png)
 
 ## Requirements
 

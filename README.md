@@ -20,9 +20,7 @@ Modern, local and CPU-focused desktop face-swap application built with Python, T
 
 ## Screenshot
 
-Add your screenshot to `assets/screenshot.png`, then uncomment this line:
-
-<!-- ![Face Swap Studio](assets/screenshot.png) -->
+![Main Interface](screenshots/report-export.png)
 
 ## Requirements
 
